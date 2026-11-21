@@ -1,6 +1,6 @@
 {
-  "version": "1.29",
+  "version": "1.31",
   "released": "2026-11-22",
   "download": "https://polar.sh/pros-laser-and-cnc/portal",
-  "notes": ["Renew button now goes to the $30 yearly update renewal"]
+  "notes": ["Demo mode until a license key is activated", "Renewal keys (PROSR-) work next to your original key", "Renew early and no days are lost"]
 }
