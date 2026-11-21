@@ -1,6 +1,6 @@
 {
-  "version": "1.28",
-  "released": "2026-11-21",
+  "version": "1.29",
+"released": "2026-11-22",
   "download": "https://polar.sh/pros-laser-and-cnc/portal",
   "notes": ["Checks for updates automatically every time the program opens"]
 }
