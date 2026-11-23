@@ -1,6 +1,6 @@
 {
-  "version": "1.31",
+  "version": "1.35",
   "released": "2026-11-22",
   "download": "https://polar.sh/pros-laser-and-cnc/portal",
-  "notes": ["Demo mode until a license key is activated", "Renewal keys (PROSR-) work next to your original key", "Renew early and no days are lost"]
+  "notes": ["Catch-All Tray sayings now stay inside their pocket", "Rim text on trays has more room and can be moved", "Click any text or graphic on the board to jump to its settings", "Bug fixes and cleanup"]
 }
